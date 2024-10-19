@@ -8,6 +8,10 @@ Dumphash 绕过国内全部杀软转存储 该工具无任何网络行为
 Defender
 ![image](https://github.com/user-attachments/assets/042accc7-ec10-432f-84d9-30a2feb2bfd7)
 
+小红伞
+![image](https://github.com/user-attachments/assets/d81cb32e-7c7c-4f80-ab2f-884b53b7d15c)
+
+
 由于环境问题 其他杀软请自测(除卡巴之外应该都能过)
 
 本工具纯娱乐切勿用于违法犯罪,出现任何问题与本人无任何关系!!!!!!
