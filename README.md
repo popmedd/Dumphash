@@ -12,6 +12,7 @@ Defender
 ![image](https://github.com/user-attachments/assets/d81cb32e-7c7c-4f80-ab2f-884b53b7d15c)
 
 
+各位动动发财的小手给弟弟一个星星(十分感谢)!!!!!!
 由于环境问题 其他杀软请自测(除卡巴之外应该都能过)
 
 本工具纯娱乐切勿用于违法犯罪,出现任何问题与本人无任何关系!!!!!!
